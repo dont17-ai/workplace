@@ -1,0 +1,6 @@
+{
+  "name": "EduNotion Architect",
+  "description": "Hệ thống thiết kế, mô phỏng và hướng dẫn xây dựng Notion Workspace hoàn chỉnh cho cơ sở giáo dục với phong cách giao diện Apple, Linear và Stripe tối giản.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
